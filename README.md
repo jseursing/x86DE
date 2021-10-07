@@ -7,6 +7,9 @@ The include folder contains websites used as references when putting together th
 
 The following references were used:
 http://ref.x86asm.net/coder32.html
+
 http://ref.x86asm.net/coder64.html
+
 http://www.cs.loyola.edu/~binkley/371/Encoding_Real_x86_Instructions.html
+
 http://sparksandflames.com/files/x86InstructionChart.html
